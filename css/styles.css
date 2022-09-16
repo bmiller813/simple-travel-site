@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+
+
+nav a{
+    
+    padding: 1em;
+    text-decoration: none;
+    color: lightblue;
+    font-size: 2em;
+    background-color: dimgray;
+}
+
+nav a:hover{
+    background-color: black;
+}
+
+nav{
+    margin: 1em;
+}
